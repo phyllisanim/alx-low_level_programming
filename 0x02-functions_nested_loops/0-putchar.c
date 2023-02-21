@@ -1,10 +1,9 @@
 #include "main.h"
 	/**
-	 * main -A program that prints _putchar that follows a new line
+	 * main - A program that prints _putchar that follows a new line
 	 * is written by mbah
 	 * Return: 0 (SUccess)
 	 */
-
 
 	int main(void)
 	{
