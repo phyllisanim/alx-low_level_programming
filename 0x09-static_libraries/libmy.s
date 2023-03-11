@@ -1,3 +1,5 @@
+!<arch>
+3-puts.c/       0           0     0     644     196       `
 #include "main.h"
 #include<stdio.h>
 /**
